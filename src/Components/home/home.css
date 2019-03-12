@@ -1,0 +1,16 @@
+.ftco-section-parallax .parallax-btn {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    padding: 2em 0;
+    background: #0b3364; }
+
+
+    .ftco-section-parallax .parallax-btn a  
+{
+    border-radius: 28px;-moz-border-radius:28px;
+    -webkit-border-radius:28px;
+    border-radius:28px;
+    margin-top: 1.5em;
+}
